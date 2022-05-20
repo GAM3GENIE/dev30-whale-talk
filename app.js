@@ -1,4 +1,4 @@
-let input = 'Hello from the other side';
+let input = 'Hello from the other side. I like you.';
 
 const vowels = ['a', 'e', 'i', 'o', 'u'];
 
